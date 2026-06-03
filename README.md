@@ -264,11 +264,11 @@ https://huggingface.co/spaces/DheivaCodes/An_Integrated_System_For_PCOS_Detectio
 
 **Dheiva Priya V**
 
-B.Tech Artificial Intelligence and Data Science
+M.Sc Data Science
 
 Major Project
 
-**An Integrated Explainable AI System for PCOS Detection Using Clinical and Ultrasound Data**
+**A Multi-Modal Explainable AI System for PCOS Detection and Clinical Risk Assessment**
 
 ---
 
